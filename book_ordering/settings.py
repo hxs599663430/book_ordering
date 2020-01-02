@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
 
     # 自己创建的app
+    'logs',
 
 ]
 
